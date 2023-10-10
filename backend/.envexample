@@ -1,0 +1,10 @@
+# Information Applications
+APP_NAME=
+APP_HOST=
+APP_PORT=
+
+# Information database
+DB_SERVER_HOST=db_host
+DB_SERVER_USER=db_user
+DB_SERVER_PASSWORD=your_password
+DB_SERVER_DATABASE=your_db
